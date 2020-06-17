@@ -1,2 +1,1 @@
-# AlgoExpert
-Aish's Python Solutions to Algo Expert Questions
+## A collection of challenging questions 
